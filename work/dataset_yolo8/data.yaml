@@ -1,0 +1,17 @@
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: bag
+  1: bike
+  2: book
+  3: bottle
+  4: car
+  5: cat
+  6: chair
+  7: dog
+  8: laptop
+  9: mobile
+  10: pen
+  11: person
